@@ -1,0 +1,28 @@
+{
+  "grocery": [
+    {
+      "id": "f0d6",
+      "title": "Coconut milk",
+      "amount": 2,
+      "completed": false
+    },
+    {
+      "id": "e2b2",
+      "title": "Avocado",
+      "amount": 7,
+      "completed": true
+    },
+    {
+      "id": "ce9e",
+      "title": "Kiwifruit",
+      "amount": 4,
+      "completed": false
+    },
+    {
+      "id": "1fa0",
+      "title": "Normal Milk",
+      "amount": 2,
+      "completed": true
+    }
+  ]
+}
