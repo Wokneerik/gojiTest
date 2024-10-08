@@ -19,7 +19,7 @@ List the key features of your project.
 ### Prerequisites
 
 - Yarn
-- Expo CLI
+- React Native CLI
 
 ### Installation
 
